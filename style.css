@@ -1,0 +1,22 @@
+#section{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.box{
+	width: 500px;
+	height: 300px;
+}
+
+h1, h2, span{
+	font-family: monospace;
+	font-size: 2rem;
+	display: inline-block;
+}
+
+#selectedColor{
+	color: white;
+	padding: 5px;
+}
+
